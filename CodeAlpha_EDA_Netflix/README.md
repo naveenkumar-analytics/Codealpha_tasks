@@ -1,4 +1,5 @@
 Netflix Data Analysis Project
+
 📊 Overview
 This project performs an Exploratory Data Analysis (EDA) on Netflix's content dataset to uncover insights about their movie and TV show offerings. The analysis helps understand content distribution patterns, trends in release years, and director availability across different content types.
 
