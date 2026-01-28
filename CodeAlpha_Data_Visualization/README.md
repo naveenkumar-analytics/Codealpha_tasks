@@ -51,10 +51,15 @@ Data Source	Netflix Public Dataset
 bash
 netflix-analysis/
  :notebooks/          # Analysis workflow
- :src/               # Reusable functions  
+ 
+ :src/               # Reusable functions 
+ 
  :data/              # Raw & processed datasets
+ 
  :reports/           # Exported visualizations
+ 
  :requirements.txt   # Dependencies
+ 
 all dependencies
 pip install pandas matplotlib seaborn jupyter
 
