@@ -80,9 +80,13 @@ Regional Rating Adaptation for broader accessibility
 📊 Performance Metrics
 Metric	Value	Trend
 TV Shows	6,131	📈 Dominant
+
 Movies	750	📉 Underrepresented
+
 Countries	750+	🌍 Global
+
 TV-MA Content	45.6%	🎯 Targeted
+
 Peak Production	2019-2021	🚀 Growth Phase
 
 🔍 Analytical Approach
