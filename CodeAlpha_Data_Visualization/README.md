@@ -46,7 +46,7 @@ Data Processing	Python (Pandas, NumPy)
 Visualization	Matplotlib, Seaborn
 Environment	Jupyter Notebook
 Data Source	Netflix Public Dataset
-Project Structure
+## Project Structure
 bash
 netflix-analysis/
 ├── notebooks/          # Analysis workflow
@@ -56,6 +56,7 @@ netflix-analysis/
 └── requirements.txt   # Dependencies
 all dependencies
 pip install pandas matplotlib seaborn jupyter
+
 💡 Strategic Implications
 Content Strategy Insights
 Global-Local Balance: 750+ sourcing countries with US dominance
@@ -66,7 +67,7 @@ Adult Audience Focus: Mature content constitutes 45.6% of library
 
 Growth Acceleration: Post-2016 surge in original production
 
-Recommendations
+## Recommendations
 Diversify Movie Portfolio (Currently only 10.9%)
 
 Expand Family Content to capture younger demographics
@@ -82,6 +83,7 @@ Movies	750	📉 Underrepresented
 Countries	750+	🌍 Global
 TV-MA Content	45.6%	🎯 Targeted
 Peak Production	2019-2021	🚀 Growth Phase
+
 🔍 Analytical Approach
 Methodology
 Data Cleaning: Missing value imputation, format standardization
@@ -92,7 +94,7 @@ Statistical Testing: Trend analysis, distribution checks
 
 Visual Encoding: Appropriate chart selection for each insight
 
-Validation Metrics
+## Validation Metrics
 Data completeness: 98.2%
 
 Cross-validation accuracy: 96.7%
