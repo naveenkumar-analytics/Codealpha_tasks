@@ -39,6 +39,7 @@ Key Insight: Exponential growth in original content production
 Data Pipeline
 text
 Data Source → Cleaning → Transformation → Visualization → Insights
+
 Technology Stack
 Component	Technology
 Data Processing	Python (Pandas, NumPy)
