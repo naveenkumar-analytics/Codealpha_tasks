@@ -50,15 +50,15 @@ Data Source	Netflix Public Dataset
 ## Project Structure
 bash
 netflix-analysis/
- :notebooks/          # Analysis workflow
+ :notebooks/           # Analysis workflow
  
- :src/               # Reusable functions 
+ :src/                # Reusable functions 
  
- :data/              # Raw & processed datasets
+ :data/               # Raw & processed datasets
  
- :reports/           # Exported visualizations
+ :reports/            # Exported visualizations
  
- :requirements.txt   # Dependencies
+ :requirements.txt    # Dependencies
  
 all dependencies
 pip install pandas matplotlib seaborn jupyter
